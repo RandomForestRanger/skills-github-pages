@@ -8,6 +8,5 @@
 
 - [Academic essay (LaTeX)](https://duckduckgo.com)  
 - [Academic essay (Word)](https://duckduckgo.com) 
-
 ---
 
